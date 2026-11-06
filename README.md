@@ -33,4 +33,5 @@ One interesting part was creating the sidebar menu using a checkbox and CSS sele
 
 ## Author
 
-Rutuja More
+Rutuja More.
+
